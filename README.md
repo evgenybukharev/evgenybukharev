@@ -1,16 +1,26 @@
-### Hi there 👋
+👋 Привет, я Евгений
 
-<!--
-**evgenybukharev/evgenybukharev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack-разработчик с опытом 15+ лет в разработке сложных веб-приложений, SaaS-платформ и интеграций с AI.
 
-Here are some ideas to get you started:
+🔧 Технологии
+Frontend: JavaScript, Vue.js, React
+Backend: Laravel, PHP, Go
+Databases: MySQL, PostgreSQL, Clickhouse
+DevOps: Docker, Nginx, Linux, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Основные направления
+Разработка SaaS и веб-сервисов
+CRM и внутренние системы
+Telegram-боты и automation
+Интеграции с OpenAI / GPT
+REST API и микросервисная архитектура
+
+🧠 Интересы
+AI и автоматизация бизнес-процессов
+Производительность и масштабируемость
+Чистая архитектура и поддерживаемый код
+
+📌 Сейчас
+Работаю над проектами, связанными с AI-интеграциями и автоматизацией.
+
+💡 Открыт к интересным проектам и коллаборациям
