@@ -1,11 +1,11 @@
-# 👋 Привет, я Евгений
+## 👋 Привет, я Евгений
 
 🚀 Fullstack Developer с опытом 15+ лет
 Специализируюсь на разработке сложных веб-приложений, SaaS-платформ и AI-интеграций
 
 ---
 
-## 🧠 Обо мне
+### 🧠 Обо мне
 
 * 💼 15+ лет коммерческой разработки
 * ⚙️ Архитектура высоконагруженных систем
@@ -15,25 +15,25 @@
 
 ---
 
-## 🛠 Стек
+### 🛠 Стек
 
-### 👨‍💻 Backend
+#### 👨‍💻 Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
-### 🎨 Frontend
+#### 🎨 Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### 🗄 Databases
+#### 🗄 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### ⚙️ DevOps
+#### ⚙️ DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Чем я занимаюсь
+### 🚀 Чем я занимаюсь
 
 * SaaS-платформы и веб-сервисы
 * CRM и внутренние системы
@@ -51,20 +51,12 @@
 
 ---
 
-## 📈 GitHub Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenybukharev\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenybukharev\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Контакты
+### 🌐 Контакты
 
 * 💬 Telegram: @evgenybukharev
 
 ---
 
-## ⚡ Сейчас
+### ⚡ Сейчас
 
 Работаю над проектами, связанными с AI-интеграциями и автоматизацией.
