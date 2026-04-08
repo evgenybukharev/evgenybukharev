@@ -3,12 +3,14 @@
 🚀 Fullstack-разработчик с опытом 15+ лет в разработке сложных веб-приложений, SaaS-платформ и интеграций с AI.
 
 🔧 Технологии
+
 Frontend: JavaScript, Vue.js, React
 Backend: Laravel, PHP, Go
 Databases: MySQL, PostgreSQL, Clickhouse
 DevOps: Docker, Nginx, Linux, CI/CD
 
 ⚙️ Основные направления
+
 Разработка SaaS и веб-сервисов
 CRM и внутренние системы
 Telegram-боты и automation
@@ -16,6 +18,7 @@ Telegram-боты и automation
 REST API и микросервисная архитектура
 
 🧠 Интересы
+
 AI и автоматизация бизнес-процессов
 Производительность и масштабируемость
 Чистая архитектура и поддерживаемый код
