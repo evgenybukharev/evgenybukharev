@@ -1,44 +1,70 @@
-👋 Привет, я Евгений
+# 👋 Привет, я Евгений
 
-🚀 Fullstack-разработчик с опытом 15+ лет в разработке сложных веб-приложений, SaaS-платформ и интеграций с AI.
+🚀 Fullstack Developer с опытом 15+ лет
+Специализируюсь на разработке сложных веб-приложений, SaaS-платформ и AI-интеграций
 
+---
 
-🔧 Технологии
+## 🧠 Обо мне
 
-Frontend: JavaScript, Vue.js, React
+* 💼 15+ лет коммерческой разработки
+* ⚙️ Архитектура высоконагруженных систем
+* 🤖 Интеграции с AI (OpenAI / GPT)
+* 🔗 Построение API и микросервисов
+* 🚀 Оптимизация производительности и масштабируемости
 
-Backend: Laravel, PHP, Go
+---
 
-Databases: MySQL, PostgreSQL, Clickhouse
+## 🛠 Стек
 
-DevOps: Docker, Nginx, Linux, CI/CD
+### 👨‍💻 Backend
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
-⚙️ Основные направления
+### 🎨 Frontend
 
-Разработка SaaS и веб-сервисов
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-CRM и внутренние системы
+### 🗄 Databases
 
-Telegram-боты и automation
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-Интеграции с OpenAI / GPT
+### ⚙️ DevOps
 
-REST API и микросервисная архитектура
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
+---
 
-🧠 Интересы
+## 🚀 Чем я занимаюсь
 
-AI и автоматизация бизнес-процессов
+* SaaS-платформы и веб-сервисы
+* CRM и внутренние системы
+* Telegram-боты (включая админ-панели)
+* Интеграции с внешними API и платёжными системами
+* AI-автоматизация бизнес-процессов
 
-Производительность и масштабируемость
+---
 
-Чистая архитектура и поддерживаемый код
+## 📈 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
-📌 Сейчас
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
-Работаю над проектами, связанными с AI-интеграциями и автоматизацией.
+---
 
+## 🌐 Connect with me
 
-💡 Открыт к интересным проектам и коллаборациям
+* 💬 Telegram: @evgenybukharev
+
+---
+
+## ⚡ Fun Fact
+
+Люблю превращать сложные бизнес-задачи в простые и масштабируемые решения 🚀
