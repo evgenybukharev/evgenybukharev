@@ -51,20 +51,20 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenybukharev\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenybukharev\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Контакты
 
 * 💬 Telegram: @evgenybukharev
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Сейчас
 
-Люблю превращать сложные бизнес-задачи в простые и масштабируемые решения 🚀
+Работаю над проектами, связанными с AI-интеграциями и автоматизацией.
