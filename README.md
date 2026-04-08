@@ -2,6 +2,7 @@
 
 🚀 Fullstack-разработчик с опытом 15+ лет в разработке сложных веб-приложений, SaaS-платформ и интеграций с AI.
 
+
 🔧 Технологии
 
 Frontend: JavaScript, Vue.js, React
@@ -11,6 +12,7 @@ Backend: Laravel, PHP, Go
 Databases: MySQL, PostgreSQL, Clickhouse
 
 DevOps: Docker, Nginx, Linux, CI/CD
+
 
 ⚙️ Основные направления
 
